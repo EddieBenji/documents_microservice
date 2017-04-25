@@ -24,3 +24,7 @@
                             file_url: 'https://drive.google.com/file/d/0B-m8ydgtdyTDcnRoTDNteFNEMzQ/view?usp=sharing',
                             image_url: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_club_freelance.png')
 end
+FreelanceDocument.create!(title: 'Test document',
+                          description: 'this is a description',
+                          file_url: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg',
+                          image_url: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg')
